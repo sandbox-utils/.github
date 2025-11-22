@@ -1,0 +1,1 @@
+This namespace is open to contributions. If you'd like to contrib + maintain useful open-source app sandboxing script(s) for a particular hitherto non-covered platform, the simple rule is: start from POSIX Shell and continue from there. Get in touch. :+1:
